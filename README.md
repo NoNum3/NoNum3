@@ -6,13 +6,13 @@
 #### 🌱 Learning and growing every day
 
 ### 🚀 Skills:
-- 💻 Programming Languages: Java, Python, JavaScript
-- 🌐 Web Development: HTML, CSS, SASS, JQuery, Node.js
-- 🎨 UI/UX Design: Adobe XD, Figma
-- 🛢️ Databases: MySQL, Ms Access,
-- 🔧 DevOps: Docker, AWS, Git
-- 📊 Data Analysis: Pandas, NumPy
-- 
+-💻 Programming Languages: Java, Python (including Tkinter), JavaScript
+-🌐 Web Development: HTML, CSS, SASS, JQuery, Node.js
+-🎨 UI/UX Design: Adobe XD, Figma
+-🛢️ Databases: MySQL, Ms Access
+-🔧 DevOps: Docker, AWS, Git
+-📊 Data Analysis: Pandas, NumPy, Tableau
+
 ### 🌟 Open to exciting opportunities
 ### 📫 Let's connect: -
 ### 🌐 Portfolio: 
