@@ -12,10 +12,13 @@
 - 🛢️ Databases: MySQL, Ms Access,
 - 🔧 DevOps: Docker, AWS, Git
 - 📊 Data Analysis: Pandas, NumPy
-
+- 
 ### 🌟 Open to exciting opportunities
 ### 📫 Let's connect: -
-### 🌐 Portfolio: -
+### 🌐 Portfolio: 
+1. [Face-Recognition](https://github.com/NoNum3/OpenCV-Face-Recognition-Portofolio)
+2. [VBA GUI Portfolio](https://github.com/NoNum3/ExcelVBA-GUI-Portofolio)
+3. [Travel Frontend Website](https://github.com/NoNum3/Laravel-Portofolio)
 
 > 📝 "The pursuit of knowledge isn’t a happy one. It takes such effort. First to obtain it, and then to live with it." - NoNum3
 <!--
